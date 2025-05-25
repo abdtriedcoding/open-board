@@ -1,0 +1,32 @@
+# Next.js default build output
+.next/
+out/
+
+# Node modules
+node_modules/
+
+# Cache files
+.cache/
+.turbo/
+
+# Production files
+build/
+dist/
+
+# Static files that shouldn't be formatted
+public/
+
+# Environment files
+.env*
+!.env.example
+
+# Test files
+coverage/
+*.log
+
+# IDE/Editor directories
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
